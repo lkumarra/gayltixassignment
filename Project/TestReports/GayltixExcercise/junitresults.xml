@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="8" time="10.245">
+ <testsuite name="Browse Job Test Workflow" timestamp="2020-08-15T17:03:51" hostname="localhost" time="4.824" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Browse Job Test Workflow" name="Verify user able to navigate on Browse Job Page" time="3.149" />
+  <testcase classname="Browse Job Test Workflow" name="Verify user able to see Jobs on Browse Jobs Page" time="1.663" />
+ </testsuite>
+ <testsuite name="Sr Developer Gurgaon Test Workflow" timestamp="2020-08-15T17:03:56" hostname="localhost" time="0.9" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sr Developer Gurgaon Test Workflow" name="Verify able to navigate on Sr. Software Developer Job Page with Location Gurgaon India" time="0.244" />
+ </testsuite>
+ <testsuite name="Sr Developer London Test Workflow" timestamp="2020-08-15T17:03:57" hostname="localhost" time="0.91" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sr Developer London Test Workflow" name="Verify able to navigate on Sr. Software Developer Job Page with Location London UK " time="0.251" />
+ </testsuite>
+ <testsuite name="Test Engineer Gurgaon Test Workflow" timestamp="2020-08-15T17:03:58" hostname="localhost" time="0.969" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Test Engineer Gurgaon Test Workflow" name="Verify able to navigate on Testing Enginner Job Page with Location Gurgaon India" time="0.299" />
+ </testsuite>
+ <testsuite name="Test Engineer London Test Workflow" timestamp="2020-08-15T17:03:59" hostname="localhost" time="0.908" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Test Engineer London Test Workflow" name="Verify able to navigate on Testing Enginner Job Page with Location London Uk" time="0.261" />
+ </testsuite>
+ <testsuite name="Sr. Web Designer Gurgaon Test Workflow" timestamp="2020-08-15T17:04:00" hostname="localhost" time="0.968" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sr. Web Designer Gurgaon Test Workflow" name="Verify able to navigate on Sr. Web Designer Job Page with Location Gurgaon India." time="0.282" />
+ </testsuite>
+ <testsuite name="Sr. Web Designer London Test Workflow" timestamp="2020-08-15T17:04:01" hostname="localhost" time="0.766" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sr. Web Designer London Test Workflow" name="Verify able to navigate on Sr. Web Designer Job Page with Location London UK" time="0.235" />
+ </testsuite>
+</testsuites>
